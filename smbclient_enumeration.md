@@ -1,6 +1,3 @@
-
-<span style="color:blue">some *blue* text</span>.
-
 # This is a list of useful commands/tricks using smbclient, enum4linux and nmap smb scripts:
 
 ## List shares on a machine using NULL Session
